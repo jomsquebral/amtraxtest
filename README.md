@@ -1,4 +1,4 @@
-# Amtraxtest
+# Fetch JSON file and show in table using Angular Material with Seach, Sort and Pagination
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
